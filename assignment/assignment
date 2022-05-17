@@ -1,0 +1,9 @@
+#calculate area of a circle,volumeof a cylinder,surface area of a cylinder,volume of a cube
+
+#Let's use type input
+
+from cmath import pi
+
+
+radius = input("enter radius of the circle")
+PI= 3.142
