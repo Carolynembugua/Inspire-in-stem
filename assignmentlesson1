@@ -1,0 +1,9 @@
+#area of a circle,surface area of cylinder,volume of a cylinder
+# 
+PI = 3.142
+#area of a circle
+radius = input ("enter radius of circle")
+print("the radius of the circle is" +str (radius))
+area = PI * int(radius) * int(radius)
+
+#volume
