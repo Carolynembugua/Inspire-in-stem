@@ -9,12 +9,12 @@ f_name = "sheila mutuku" #small letters
 print(f_name.upper())
 s_name = "MUMBUA MUTUKU"
 #.lower() convert to lower case
-print(s_name.lower)
+print(s_name.lower())
 
 #concatination - converting from one data type to another
 # int -> float float x
 # float -> int
-#int ->string
+#int -> string
 number = 6
 print(str(number))
 
@@ -29,8 +29,8 @@ s_name = "Atieno"
 full_name = f_name + s_name
 print(full_name)
 
-name = "Billie Eilish"
-print(name.replace('b','s'))
+name = "Rege Jean"
+print(name.replace('g','n'))
 
 #the split () method returns a list where the text one character with another in a sentence
 name = "Julie Atieno"
