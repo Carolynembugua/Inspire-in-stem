@@ -3,6 +3,11 @@ print(city[:3])
 print(city[-1:])
 print(city[5:])
 
+fruits = ["apple","mango","lemon"]
+print(fruits[-1])
+fruits[1] = 'guava'
+print(fruits)
+
 
 f_name = "sheila mutuku" #small letters
 #.upper() convert to upper case

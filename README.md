@@ -4,10 +4,13 @@
 Day 1 : installing python
 
 Add a link to python download
+https://www.python.org
 
 Add a link to download vs code
+https://code.visualstudio.com
 
 add a link to download git for windows
+https://git-scm.com
 
 ! [lesson1 ](./images/lesson1.PNG)
 
