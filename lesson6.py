@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #methods
 from os import name
 

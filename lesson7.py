@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 city = "Mombasa"
 print(city[:3])
 print(city[-1:])

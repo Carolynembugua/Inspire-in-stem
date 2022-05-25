@@ -14,18 +14,41 @@ https://git-scm.com
 
 ! [lesson1 ](./images/lesson1.PNG)
 
+
+# Git commands 
+
+git add *
+
+git commit-m "lesson"
+
+git branch-m Main
+
+git config -- global user.name"Kingfrostiey"
+
+git config -- global user.email"mbuguacarolyne6@gmail.com"
+
+git remote add main--------
+
+git push main
+
 Strings
     replace()
     strip()
     slice()
-    format()
+    format()/f{}
     upper()
     lower()
     len()
+    del()
+    split()
 
+using for loops 
+
+accessing items from a list using indices
 
 ## Week 2 : Electronics for innovators
-
+ use of : if, elif , else
+ cubes
 ## Week 3 : Introduction to Robotics
 
 ## Week 4 : Javascript,CSS,html

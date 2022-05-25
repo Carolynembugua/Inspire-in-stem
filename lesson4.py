@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 #getting user input
 
 f_name = input("Whatis your name? ")

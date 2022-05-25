@@ -1,4 +1,6 @@
-#Python Basics
+#!/usr/bin/python
+ 
+ #Python Basics
 
 #adding numbers a and b
 

@@ -1,7 +1,7 @@
+#!/usr/bin/python
 #integers
 
 from tkinter import Y
-
 
 x = 100
 y = 200
