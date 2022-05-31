@@ -18,35 +18,3 @@ for number in range (0,9) :
     
     #print a diamond of stars
     #print a pyramid of stars
-print( " * " )
-print("  **  ")
-print("  *** ")
-print("  ****  ")
-print("  ***** ")
-print("  ******  ")
-print("  ******* ")
-
-
-
-print("   *")
-print("  **")
-print("  ***")
-print("  ****")
-print("  *****")
-print("  ******")
-print("  *******")
-print("  *********")
-print("  **********")
-print("  ************")
-print(" ***********")
-print("**********")
-print("      *********")
-print("     ********")
-print("      ******** ")
-print("        ******* ")
-print("        ******")
-print("         ***** ")
-print("          **** ")
-print("           *** ")
-print("            ** ")
-print("             * ")

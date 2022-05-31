@@ -47,8 +47,11 @@ using for loops
 accessing items from a list using indices
 
 ## Week 2 : Electronics for innovators
- use of : if, elif , else
- cubes
+ use of : if, elif , else ,while
+ cubes,squares
+ make of dictionaries
+ making of pyramids
+ factorizing
 ## Week 3 : Introduction to Robotics
 
 ## Week 4 : Javascript,CSS,html

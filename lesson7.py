@@ -39,10 +39,10 @@ print(full_name)
 name = "Rege Jean"
 print(name.replace('g','n'))
 
-#the split () method returns a list where the text one character with another in a sentence
 name = "Julie Atieno"
 print(name.replace('l','t'))
 
+#the split () method returns a list where the text one character with another in a sentence
 msg = "hello from Julie Atieno ,how are you"
 print(msg.split())
 

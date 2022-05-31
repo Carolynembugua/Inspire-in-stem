@@ -1,5 +1,7 @@
+#!/usr/bin/python
+
 # a dictionary is  a collection of key value pair. 
-#syntax : dictionary =  {'ke'}:{'value'}
+#syntax : dictionary =  {'key'}:{'value'}
 #use curly brackets{}
 names = ['John','Mary']
 colours = {'colour': 'red'} 
@@ -26,4 +28,21 @@ del person ['phone_number']
 print(person)
 #looping over dictionaries
 for key, value in person .items() :
+    print(f"{key}:{value}")
+
+#using get to access the value in a dictionary
+print(person.get('password','the locationkey is non - existent')) 
+
+#lists use box brackets[]
+Mary_fav_food = ['beef','chicken','vegetables']
+Jane_fav_food = ['rice','ugali','potatoes']
+#dictionary containing the above
+
+fav_food = {
+    'Mary' : ['beef','chicken', 'vegetables'] ,
+    'Jane ' :['rice', 'ugali','potatoes']
+}
+
+print(fav_food)
+for key,value in fav_food .items() :
     print(f"{key}:{value}")
