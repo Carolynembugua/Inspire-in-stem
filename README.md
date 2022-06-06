@@ -52,6 +52,7 @@ accessing items from a list using indices
  make of dictionaries
  making of pyramids
  factorizing
+ 
 ## Week 3 : Introduction to Robotics
 
 ## Week 4 : Javascript,CSS,html

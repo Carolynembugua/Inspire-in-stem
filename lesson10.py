@@ -2,7 +2,7 @@
 
 ###################
 #squares
-#Name : Alexandria Omondi
+#Name : CAROLYNE MBUGUA
 #date : 5/24/2022
 ###################
 
@@ -24,7 +24,6 @@ sum = 0
 for numbers in  range (0,10) :
     sum = sum + numbers
 print(sum)   
-
 
 #If statements
 Age = 20

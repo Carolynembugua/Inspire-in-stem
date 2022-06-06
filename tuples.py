@@ -1,3 +1,10 @@
+#!/usr/bin/python
+
+###################
+#TUPLES                                                       1
+#Name : Alexandria Omondi
+#date : 5/31/2022
+###################
 #muteable - changeable
     #lists[],dictionaries{}
 

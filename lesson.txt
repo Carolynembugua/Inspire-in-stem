@@ -1,0 +1,14 @@
+This is a normal text file 
+Learning python is fun 
+Today is a cloudy dayopen file
+#main file operations
+ open file - file _name .open()
+ write file - write()
+ append - .append() # adding smth at the end
+ close - .close()
+ read - .read()
+ seek - .seek() #character,line
+ readline - .readline() #reads a whole line
+
+
+ f = 

@@ -4,8 +4,8 @@
 
 ############
 #       Dictionaries
-#       Name : Tatiana Juma
-#       Date : 5/23/2022
+#       Name : CAROLYNE MBUGUA
+#       Date : 5/26/2022
 ######## 
 ## use curly brackets 
 student = {"Name": "Tatiana","Age":36,"Gender": "Female"}

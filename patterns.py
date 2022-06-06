@@ -1,5 +1,9 @@
 
-
+###################
+#PATTERNS                                                        1
+#Name : CAROLYNE MBUGUA
+#date : 5/30/2022
+###################
 rows = int(input("Enter number of rows"))
 for i in range  (rows) :
     for j in range (i + 1) :

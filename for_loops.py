@@ -4,7 +4,7 @@
 
 ############
 #       Dictionaries
-#       Name : Tatiana Juma
+#       Name : CAROLYNE MBUGUA
 #       Date : 5/23/2022
 ######## # use curly brackets 
 

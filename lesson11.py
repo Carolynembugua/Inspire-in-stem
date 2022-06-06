@@ -1,8 +1,7 @@
-#!/usr/bin/python
 
 ###################
 #for,if,while statements                                                        1
-#Name : Alexandria Omondi
+#Name : CAROLYNE MBUGUA
 #date : 5/26/2022
 ###################
 
@@ -27,7 +26,6 @@ print(product)
 #calculate the factorial of 6.... 6!
 #fact = number *  (number - 1)
 #n! =  n * (n-1) * (n-2) * (n-3)-------
-
 
 # < less than
 # > greater than

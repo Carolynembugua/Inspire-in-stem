@@ -1,4 +1,11 @@
 from math import sqrt
+#!/usr/bin/python
+
+###################
+#QUADRATIC EQUATIONS                                                        1
+#Name : CAROLYNE MBUGUA
+#date : 5/31/2022
+###################
 
 #a -> coefficient of first term
 #b -> coefficient of second term
