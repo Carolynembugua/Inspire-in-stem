@@ -2,15 +2,15 @@
 
 #my age
 
-age = 17
-no_of_siblings = 2
+age =  30
+no_of_siblings = 5
 
 dateofBirth = 18
 yearofBirth = 2004
 
 # strings
-my_first_name = "carolyne"
-my_second_name = "nyambura"
+my_first_name = "lynne"
+my_second_name = "nyawirs"
 
 favouriteFood = "not yet found"
 schoolAttended = "kghs"

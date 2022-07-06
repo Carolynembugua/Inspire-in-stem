@@ -1,0 +1,12 @@
+body{
+    margin:15px;
+    background-color: aquamarine;
+}
+#Block{
+    margin: 40px;
+}
+.meta-data{
+    color: red;
+    font-size: 18px;
+    font-weight: 400;
+}
